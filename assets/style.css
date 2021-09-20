@@ -66,7 +66,7 @@ h2{
     text-decoration: none;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
 }
 
 .navbar h2{
@@ -175,10 +175,11 @@ h2{
         padding-top: 0rem;
         padding-bottom: 2rem;
         box-sizing: border-box;
-        min-height: calc(100vh - 90px);
+        min-height: calc(100vh - 64px);
         display: flex;
         align-items: center;
         justify-content: center;
+        max-width: 100%;
     }
 
     .hero{
