@@ -58,7 +58,6 @@ h2{
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 16px;    
-    text-transform: uppercase;
     color: #4B4B4B;
     text-decoration: none;
     display: flex;
@@ -78,7 +77,6 @@ h2{
 
 .brand{
     font-size: 1.125rem;
-    text-transform: uppercase;
 }
 
 .links{
