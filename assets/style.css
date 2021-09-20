@@ -17,7 +17,7 @@ html, body{
 }
 
 .hero-content{
-    min-height: calc(100vh - 128px);
+    min-height: calc(100vh - 64px);
     padding-top: 4rem;
     padding-bottom: 4rem;
     display: flex;
@@ -58,7 +58,7 @@ h2{
 }
 
 .navbar{
-    height: 128px;
+    height: 64px;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 16px;    
