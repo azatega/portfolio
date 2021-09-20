@@ -18,7 +18,11 @@ html, body{
 
 .hero-content{
     min-height: calc(100vh - 128px);
-    padding-top: min(8rem, 15vh);
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     box-sizing: border-box;
 }
 
