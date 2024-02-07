@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120.656" height="118.007" viewBox="0 0 120.656 118.007">
+    <defs>
+        <filter id="w5wznt6o6a" width="60.421" height="93.813" x="51.992" y="4.88" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity="0"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="4x5bi4zmwb" width="107.503" height="118.007" x="13.153" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-2" stdDeviation="3"/>
+            <feFlood flood-opacity="0"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="2uwbz1bxic" width="103.151" height="69.147" x="0" y="10.237" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-3" stdDeviation="3"/>
+            <feFlood flood-opacity="0"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <g filter="url(#w5wznt6o6a)" transform="translate(9.949 12.285) translate(-9.95 -12.28)">
+            <path fill="#b4d9ff" d="M10428.839 1582.417s44.125-44.659 39.512 0-1.951 74.831-26.336 42.316-13.176-42.316-13.176-42.316z" opacity="0.58" transform="translate(-10365.28 -1551.69)"/>
+        </g>
+        <g filter="url(#4x5bi4zmwb)" transform="translate(9.949 12.285) translate(-9.95 -12.28)">
+            <path fill="#2979ff" d="M.09 33.6C-.744 18.289 3.526-15.1 42.709 7.775S98.254 58.676 68.2 54.623.923 48.918.09 33.6z" opacity="0.546" transform="rotate(-60 79.058 20.068)"/>
+        </g>
+        <g filter="url(#2uwbz1bxic)" transform="translate(9.949 12.285) translate(-9.95 -12.28)">
+            <path fill="#0076ff" d="M.019 28.379c-.834-15.314 25.966-42.44 65.149-19.566s13.705 45.92-16.351 41.867S.852 43.694.019 28.379z" opacity="0.564" transform="rotate(180 47.075 33.69)"/>
+        </g>
+    </g>
+</svg>
